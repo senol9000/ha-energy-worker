@@ -1,0 +1,7 @@
+﻿name = "ha-energy-api"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+[[kv_namespaces]]
+binding = "ENERGY_KV"
+id = "041c62495682457cbde273296b8285ae"
