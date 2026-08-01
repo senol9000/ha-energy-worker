@@ -20,7 +20,7 @@ wrangler secret put HA_URL
 `HA_URL` değeri:
 
 ```text
-https://hass.senolc.keenetic.link
+https://hass.xxxx.link
 ```
 
 ## Çalıştırma
